@@ -27,6 +27,8 @@
 *.i*86
 *.x86_64
 *.hex
+jeu_2048
+jeu_2048_curse
 
 # Debug files
 *.dSYM/
